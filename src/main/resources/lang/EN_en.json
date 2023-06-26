@@ -1,0 +1,13 @@
+{
+  "gui.bees": "Bees",
+  "gui.honey": "{#FF9254}Sweet honey",
+  "gui.noHoney": "{#c7c4b7}No honey",
+  "gui.beeRelax": "{#4fff95}Bee is relaxing",
+  "gui.empty": "{#c7c4b7}Empty",
+  "gui.flower": "{#c7c4b7}Favorite flower",
+  "gui.click": "{#858585}Click",
+  "gui.rcm": "{#FF9254}RCM",
+  "gui.todo": "{#858585}this flower on the hive",
+  "gui.toSpeed": "{#858585}to speed up the bees",
+  "gui.noFlower": "{#c7c4b7}The bees haven't found the flowers yet"
+}

@@ -1,0 +1,4 @@
+name: Pattern
+version: '${version}'
+main: com.azlagor.beeinfo.BeeInfo
+api-version: '1.19'
