@@ -1,4 +1,4 @@
 # BeeInfo
 This plugin adds a GUI with information about the bee hive. Bees also get their favorite flower (the type they collect near the hive), which you can feed them, and there's a chance that the honey level will slightly increase.
 # ShowCase
-![alt text](https://psv4.userapi.com/c909218/u794072425/docs/d57/028a5034c37e/Desktop_230626_1641_1__2.gif?extra=hK1dTpoeqgKIt2mwQvnhz18HYRcvqoMNsLR0RQmUtC-0NkLjIpUUH3Ff9sF6kUcXyXW5j6fcQJWTF6_939WGCHfwIIZ0Z6Pzpso9x3_n51AXp5824Dc05xAWH3pQqgiUVJixvRmENamw8B_Jj6zQSN1H)
+![alt text](https://psv4.userapi.com/c909218/u794072425/docs/d19/74f756fc74c0/Desktop_230626_1604_2.gif?extra=v0P_sw8qEkNw4N6F7jOak0KMNbclzyEUdOti9cJpl8EsWQYRfjR8iA-vfMdzthJ82XgUwBGr10eT9Fu0DqGHoGUlHbpMvBgl41JTLjZ2G9_k4dYYVhxyodB9MUVhJO2HIlYJ92x2P6JDAhl6o5vl-kB-)
